@@ -1,0 +1,41 @@
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Town Country.exe
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Town Country.deps.json
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Town Country.runtimeconfig.json
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Town Country.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Town Country.pdb
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.Form1.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.csproj.GenerateResource.cache
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.AssemblyInfoInputs.cache
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.AssemblyInfo.cs
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\refint\Town Country.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.pdb
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.genruntimeconfig.cache
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\ref\Town Country.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.Properties.Resources.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.frmdeals.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.frmRealEstates.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.frmuserprofile.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.Register.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.Login.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town Country.csproj.CopyComplete
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.frmShowMore.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.homeAbdoun.resources
+C:\Users\youse\source\repos\Real Estate Office\Town Country\obj\Debug\net6.0-windows\Town_Country.GUI.HomeTabarbour.resources
